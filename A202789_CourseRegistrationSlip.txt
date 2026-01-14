@@ -1,0 +1,14 @@
+========================================
+      COURSE REGISTRATION SLIP
+========================================
+Name: Lim Wei Jie
+Matric No: A202789
+Program: Computer Science (Computer Networks)
+Year: 1
+========================================
+APPROVED COURSES:
+SECJ2013 | Data Structures and Algorithms | 3 credit(s)
+SECJ1023 | Digital Logic | 3 credit(s)
+SECJ1013 | Programming Technique I | 3 credit(s)
+========================================
+Total Approved Credits: 9/20

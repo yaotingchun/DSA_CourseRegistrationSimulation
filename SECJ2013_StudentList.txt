@@ -1,0 +1,13 @@
+=== Students in SECJ2013 - Data Structures and Algorithms ===
+
+1. Ahmad Faiz bin Abdullah (A201234)
+2. Lim Wei Jie (A202789)
+3. Tan Mei Ling (A205678)
+4. Amirah binti Yusof (A208901)
+5. Rajesh Kumar (A209012)
+6. Muhammad Amin bin Sulaiman (A213456)
+7. Priya Devi (A214567)
+8. Muhammad Syafiq bin Ali (A218901)
+9. Tan Kai Xuan (A219012)
+10. Aisyah binti Hashim (A222345)
+11. Kumar Selvam (A223456)

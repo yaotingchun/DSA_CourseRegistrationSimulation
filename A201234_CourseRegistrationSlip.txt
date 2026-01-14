@@ -1,0 +1,13 @@
+========================================
+      COURSE REGISTRATION SLIP
+========================================
+Name: Ahmad Faiz bin Abdullah
+Matric No: A201234
+Program: Computer Science (Software Engineering)
+Year: 2
+========================================
+APPROVED COURSES:
+SECJ2013 | Data Structures and Algorithms | 3 credit(s)
+SCSJ2313 | Discrete Mathematics | 3 credit(s)
+========================================
+Total Approved Credits: 6/20
