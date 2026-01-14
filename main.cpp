@@ -504,7 +504,6 @@ void addCourseToStudent(Student* student, string courseCode, string status);
 void removeCourseFromStudent(Student* student, string courseCode);
 CourseNode* findCourseInStudent(Student* student, string courseCode);
 int countStudentCourses(Student* student);
-void clearStudentCourses(Student* student);
 string getCurrentTimestamp(time_t t = 0);
 void easterEgg();
 
@@ -555,14 +554,6 @@ int countStudentCourses(Student* student) {
         current = current->next;
     }
     return count;
-}
-
-void clearStudentCourses(Student* student) {
-    while (student->courseList != NULL) {
-        CourseNode* temp = student->courseList;
-        student->courseList = student->courseList->next;
-        delete temp;
-    }
 }
 
 int main() {
