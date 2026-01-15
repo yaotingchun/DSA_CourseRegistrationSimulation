@@ -1,93 +1,93 @@
-Ahmad Faiz bin Abdullah	A201234	20	12	2	Computer Science (Software Engineering)	2
+Ahmad Faiz bin Abdullah	A24CS1234	20	12	2	Software Engineering	2
 SCSJ2313	Approved
 SECJ2013	Approved
-Nurul Aina binti Hassan	A201456	20	15	3	Computer Science (Data Science)	3
+Nurul Aina binti Hassan	A23CS1456	20	15	3	Computer Science (Data Engineering)	3
 SECJ3523	Approved
 SECJ3613	Approved
 SCSJ3613	Approved
-Lim Wei Jie	A202789	20	9	1	Computer Science (Computer Networks)	2
+Lim Wei Jie	A25CS2789	20	9	1	Computer Science (Network and Security)	2
 SECJ1013	Approved
 SECJ1023	Approved
-Siti Nurhaliza binti Zainal	A203456	20	18	4	Software Engineering	4
+Siti Nurhaliza binti Zainal	A22CS3456	20	18	4	Software Engineering	4
 SECR4706	Approved
 SECJ4933	Approved
 SECV4913	Approved
 SECI4934	Approved
-Muhammad Hafiz bin Ismail	A204567	20	6	1	Computer Science (Graphics and Multimedia)	1
+Muhammad Hafiz bin Ismail	A25CS4567	20	6	1	Computer Science (Graphics and Multimedia)	1
 SECJ1013	Approved
 Tan Mei Ling	A205678	20	12	2	Information Technology	2
 SECJ2013	Approved
 SECI2206	Approved
-Khairul Anuar bin Mohamed	A206789	20	15	3	Computer Science (Software Engineering)	3
+Khairul Anuar bin Mohamed	A23CS6789	20	15	3	Software Engineering	3
 SECJ3523	Approved
 SCSJ3613	Approved
 SECJ3033	Approved
-Wong Siew Chin	A207890	20	18	4	Computer Science (Data Science)	4
+Wong Siew Chin	A22CS7890	20	18	4	Computer Science (Data Engineering)	4
 SECR4706	Approved
 SECJ4933	Approved
 SCSJ4663	Approved
 SECV4913	Approved
-Amirah binti Yusof	A208901	20	9	2	Computer Science (Computer Networks)	2
+Amirah binti Yusof	A24CS8901	20	9	2	Computer Science (Network and Security)	2
 SECJ2013	Approved
 SECJ2153	Approved
-Rajesh Kumar	A209012	20	12	2	Software Engineering	2
+Rajesh Kumar	A24CS9012	20	12	2	Software Engineering	2
 SCSJ2313	Approved
 SECJ2013	Approved
-Fatimah binti Ahmad	A210123	20	6	1	Computer Science (Software Engineering)	1
+Fatimah binti Ahmad	A25CS0123	20	6	1	Software Engineering	1
 SECJ1013	Approved
-Chen Wei Lun	A211234	20	15	3	Computer Science (Data Science)	3
+Chen Wei Lun	A23CS1234	20	15	3	Computer Science (Data Engineering)	3
 SECJ3523	Approved
 SECJ3613	Approved
 SCSJ3613	Approved
-Nurul Hidayah binti Razak	A212345	20	18	4	Information Technology	4
+Nurul Hidayah binti Razak	A22CS2345	20	18	4	Computer Science (Bioinformatics)	4
 SECR4706	Approved
 SECJ4933	Approved
 SECV4913	Approved
 SECI4934	Approved
-Muhammad Amin bin Sulaiman	A213456	20	9	2	Computer Science (Graphics and Multimedia)	2
+Muhammad Amin bin Sulaiman	A24CS3456	20	9	2	Computer Science (Graphics and Multimedia)	2
 SECJ2013	Approved
 SCSJ2313	Approved
-Priya Devi	A214567	20	12	2	Computer Science (Software Engineering)	2
+Priya Devi	A24CS4567	20	12	2	Software Engineering	2
 SECJ2013	Approved
 SECJ2153	Approved
-Hassan bin Ibrahim	A215678	20	15	3	Computer Science (Computer Networks)	3
+Hassan bin Ibrahim	A23CS5678	20	15	3	Computer Science (Network and Security)	3
 SECJ3523	Approved
 SECJ3613	Approved
 SECJ3033	Approved
-Lee Xin Yi	A216789	20	18	4	Software Engineering	4
+Lee Xin Yi	A22CS6789	20	18	4	Software Engineering	4
 SECR4706	Approved
 SECJ4933	Approved
 SECV4913	Approved
 SECI4934	Approved
-Zainab binti Karim	A217890	20	18	4	Computer Science (Data Science)	4
+Zainab binti Karim	A22CS7890	20	18	4	Computer Science (Data Engineering)	4
 SECR4706	Approved
 SECJ4933	Approved
 SCSJ4663	Approved
 SECV4913	Approved
-Muhammad Syafiq bin Ali	A218901	20	9	2	Computer Science (Software Engineering)	2
+Muhammad Syafiq bin Ali	A24CS8901	20	9	2	Software Engineering	2
 SECJ2013	Approved
 SCSJ2313	Approved
-Tan Kai Xuan	A219012	20	12	2	Information Technology	2
+Chun Yao Ting	A24CS0239	20	12	2	Computer Science (Data Engineering)	2
 SECJ2013	Approved
 SECI2206	Approved
-Nadia binti Rahman	A220123	20	15	3	Computer Science (Graphics and Multimedia)	3
+Nadia binti Rahman	A23CS0123	20	15	3	Computer Science (Graphics and Multimedia)	3
 SECJ3523	Approved
 SECJ3613	Approved
 SCSJ3613	Approved
-Liew Chee Keong	A221234	20	18	4	Computer Science (Computer Networks)	4
+Liew Chee Keong	A22CS1234	20	18	4	Computer Science (Network and Security)	4
 SECR4706	Approved
 SECJ4933	Approved
 SECV4913	Approved
 SECI4934	Approved
-Aisyah binti Hashim	A222345	20	9	2	Software Engineering	2
+Aisyah binti Hashim	A24CS2345	20	9	2	Software Engineering	2
 SECJ2013	Approved
 SECJ2153	Approved
-Kumar Selvam	A223456	20	12	2	Computer Science (Data Science)	2
+Tan Xin Tian	A24CS0198	20	12	2	Computer Science (Data Engineering)	2
 SCSJ2313	Approved
 SECJ2013	Approved
-Nur Amira binti Aziz	A224567	20	6	1	Computer Science (Software Engineering)	1
+Nur Amira binti Aziz	A25CS4567	20	6	1	Computer Science (Software Engineering)	1
 SECJ1013	Approved
-Chong Wei Hao	A225678	20	15	3	Information Technology	3
+Chong Wei Hao	A23CS5678	20	15	3	Computer Science (Bioinformatics)	3
 SECJ3523	Approved
 SECJ3613	Approved
 SECI2206	Approved
