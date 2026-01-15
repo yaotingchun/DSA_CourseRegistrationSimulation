@@ -967,7 +967,7 @@ void studentMenu(Student* student) {
             case 6: viewNotifications(student); break;
             case 7: viewRegistrationSlip(student); break;
             case 8: viewStudentsInCourse(student); break;
-            case 9: return;
+            case 9: saveAllData(); return;
             default: cout << "Invalid choice.\n";
         }
     }
@@ -1008,7 +1008,7 @@ void staffMenu(Staff* staff) {
             case 9: staffViewAllCourses(); break;
             case 10: staffRetractCourse(); break;
             case 11: staffInsertCourseForStudent(); break;
-            case 12: return;
+            case 12: saveAllData(); return;
             default: cout << "Invalid choice.\n";
         }
     }
