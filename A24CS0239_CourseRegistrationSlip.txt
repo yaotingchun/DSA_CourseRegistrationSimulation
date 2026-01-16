@@ -1,0 +1,13 @@
+========================================
+      COURSE REGISTRATION SLIP
+========================================
+Name: Chun Yao Ting
+Matric No: A24CS0239
+Program: Computer Science (Data Engineering)
+Year: 2
+========================================
+APPROVED COURSES:
+SECJ2013 | Data Structures and Algorithms | 3 credit(s)
+SECI2206 | Computer System and Organization | 3 credit(s)
+========================================
+Total Approved Credits: 6/20
