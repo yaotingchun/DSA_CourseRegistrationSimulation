@@ -56,7 +56,7 @@ SECR4706	Approved
 SECP3723	Approved
 SCSJ2313	Pending
 Chun Yao Ting	A24CS0239	20	3	2	Computer Science (Data Engineering)	1
-SECJ2013	Pending
+SECJ2013	Approved
 Ahmad Faiz bin Abdullah	A24CS1234	20	12	2	Software Engineering	2
 SCSJ2313	Approved
 SECJ2013	Approved

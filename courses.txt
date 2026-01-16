@@ -1,4 +1,4 @@
-SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	4	5
+SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	5	5
 A24CS0198	Tan Xin Tian
 A24CS0226	Angela Ngu
 A24CS1234	Ahmad Faiz bin Abdullah
@@ -25,9 +25,10 @@ A25CS2789	Lim Wei Jie
 A25CS4567	Muhammad Hafiz bin Ismail
 SECJ1023	Digital Logic	Assoc. Prof. Dr. Siti Hajar binti Yusoff	3	40	1	1
 A25CS2789	Lim Wei Jie
-SECJ2013	Data Structures and Algorithms	Prof. Dr. Ahmad Fauzi bin Mohamed	3	45	8	8
+SECJ2013	Data Structures and Algorithms	Prof. Dr. Ahmad Fauzi bin Mohamed	3	45	9	9
 A22CS0678	Tan Mei Ling
 A24CS0198	Tan Xin Tian
+A24CS0239	Chun Yao Ting
 A24CS1234	Ahmad Faiz bin Abdullah
 A24CS2345	Aisyah binti Hashim
 A24CS3456	Muhammad Amin bin Sulaiman
