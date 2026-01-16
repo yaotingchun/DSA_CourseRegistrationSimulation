@@ -14,8 +14,8 @@ A207890	Wong Siew Chin
 A217890	Zainab binti Karim
 SECI2206	Computer System and Organization	Dr. Abdullah bin Mohd Zin	3	40	3	3
 A205678	Tan Mei Ling
-A219012	Tan Kai Xuan
 A225678	Chong Wei Hao
+A24CS0239	Chun Yao Ting
 SECI4934	IT Project Management	Assoc. Prof. Dr. Noor Azah binti Samsudin	4	30	4	4
 A203456	Siti Nurhaliza binti Zainal
 A212345	Nurul Hidayah binti Razak
@@ -28,7 +28,7 @@ A210123	Fatimah binti Ahmad
 A224567	Nur Amira binti Aziz
 SECJ1023	Digital Logic	Assoc. Prof. Dr. Siti Hajar binti Yusoff	3	40	1	1
 A202789	Lim Wei Jie
-SECJ2013	Data Structures and Algorithms	Prof. Dr. Ahmad Fauzi bin Mohamed	3	45	14	10
+SECJ2013	Data Structures and Algorithms	Prof. Dr. Ahmad Fauzi bin Mohamed	3	45	9	9
 A201234	Ahmad Faiz bin Abdullah
 A205678	Tan Mei Ling
 A208901	Amirah binti Yusof
@@ -36,7 +36,6 @@ A209012	Rajesh Kumar
 A213456	Muhammad Amin bin Sulaiman
 A214567	Priya Devi
 A218901	Muhammad Syafiq bin Ali
-A219012	Tan Kai Xuan
 A222345	Aisyah binti Hashim
 A223456	Kumar Selvam
 SECJ2153	Object-Oriented Programming	Dr. Noraziah binti Ali	3	45	3	3
@@ -66,6 +65,9 @@ A212345	Nurul Hidayah binti Razak
 A216789	Lee Xin Yi
 A217890	Zainab binti Karim
 A221234	Liew Chee Keong
+SECP3223	Data Analytics Programming	Assoc. Prof. Ts. Dr. Erne Nazira binti Bazin	3	30	1	1
+A24CS0239	Chun Yao Ting
+SECP3723	System Development and Technology	Dr. Najmi	3	30	0	0
 SECR4706	Software Engineering Project II	Dr. Safiah binti Sidek	6	30	6	6
 A203456	Siti Nurhaliza binti Zainal
 A207890	Wong Siew Chin
