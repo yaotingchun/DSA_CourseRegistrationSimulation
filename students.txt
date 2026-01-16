@@ -54,7 +54,7 @@ SECJ2013	Approved
 SECV4913	Approved
 SECR4706	Approved
 SECP3723	Approved
-SCSJ2313	Pending
+SCSJ2313	Approved
 Chun Yao Ting	A24CS0239	20	6	2	Computer Science (Data Engineering)	2
 SECJ2013	Approved
 SCSJ2313	Approved
