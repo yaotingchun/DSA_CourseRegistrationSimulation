@@ -49,12 +49,6 @@ SECJ3033	Approved
 Tan Xin Tian	A24CS0198	20	6	2	Computer Science (Data Engineering)	2
 SCSJ2313	Approved
 SECJ2013	Approved
-Angela Ngu	A24CS0226	18	18	2	Data Engineering	5
-SECJ2013	Approved
-SECV4913	Approved
-SECR4706	Approved
-SECP3723	Approved
-SCSJ2313	Approved
 Chun Yao Ting	A24CS0239	20	6	2	Computer Science (Data Engineering)	2
 SECJ2013	Approved
 SCSJ2313	Approved
