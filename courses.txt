@@ -1,6 +1,7 @@
-SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	5	5
+SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	6	6
 A24CS0198	Tan Xin Tian
 A24CS0226	Angela Ngu
+A24CS0239	Chun Yao Ting
 A24CS1234	Ahmad Faiz bin Abdullah
 A24CS3456	Muhammad Amin bin Sulaiman
 A24CS9012	Rajesh Kumar
