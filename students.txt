@@ -46,7 +46,7 @@ Khairul Anuar bin Mohamed	A23CS6789	20	15	3	Software Engineering	3
 SECJ3033	Approved
 SCSJ3613	Approved
 SECJ3523	Approved
-Tan Xin Tian	A24CS0198	20	12	2	Computer Science (Data Engineering)	2
+Tan Xin Tian	A24CS0198	20	6	2	Computer Science (Data Engineering)	2
 SECJ2013	Approved
 SCSJ2313	Approved
 Angela Ngu	A24CS0226	18	18	2	Data Engineering	5
