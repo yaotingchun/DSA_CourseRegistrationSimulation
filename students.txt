@@ -1,83 +1,84 @@
 Tan Mei Ling	A22CS0678	20	12	4	Information Technology	2
+SECJ2013	Approved
 SECI2206	Approved
-SECJ2013	Approved
 Liew Chee Keong	A22CS1234	20	18	4	Computer Science (Network and Security)	4
-SECI4934	Approved
-SECV4913	Approved
-SECJ4933	Approved
 SECR4706	Approved
+SECJ4933	Approved
+SECV4913	Approved
+SECI4934	Approved
 Nurul Hidayah binti Razak	A22CS2345	20	18	4	Computer Science (Bioinformatics)	4
-SECI4934	Approved
-SECV4913	Approved
-SECJ4933	Approved
 SECR4706	Approved
+SECJ4933	Approved
+SECV4913	Approved
+SECI4934	Approved
 Siti Nurhaliza binti Zainal	A22CS3456	20	18	4	Software Engineering	4
-SECI4934	Approved
-SECV4913	Approved
-SECJ4933	Approved
 SECR4706	Approved
+SECJ4933	Approved
+SECV4913	Approved
+SECI4934	Approved
 Lee Xin Yi	A22CS6789	20	18	4	Software Engineering	4
+SECR4706	Approved
+SECJ4933	Approved
+SECV4913	Approved
 SECI4934	Approved
-SECV4913	Approved
-SECJ4933	Approved
-SECR4706	Approved
 Wong Siew Chin	A22CS7890	20	18	4	Computer Science (Data Engineering)	4
-SECV4913	Approved
-SCSJ4663	Approved
+SECR4706	Approved
 SECJ4933	Approved
-SECR4706	Approved
-Nadia binti Rahman	A23CS0123	20	15	3	Computer Science (Graphics and Multimedia)	3
-SCSJ3613	Approved
-SECJ3613	Approved
-SECJ3523	Approved
-Chen Wei Lun	A23CS1234	20	15	3	Computer Science (Data Engineering)	3
-SCSJ3613	Approved
-SECJ3613	Approved
-SECJ3523	Approved
-Nurul Aina binti Hassan	A23CS1456	20	15	3	Computer Science (Data Engineering)	3
-SCSJ3613	Approved
-SECJ3613	Approved
-SECJ3523	Approved
-Hassan bin Ibrahim	A23CS5678	20	15	3	Computer Science (Network and Security)	3
-SECJ3033	Approved
-SECJ3613	Approved
-SECJ3523	Approved
-Khairul Anuar bin Mohamed	A23CS6789	20	15	3	Software Engineering	3
-SECJ3033	Approved
-SCSJ3613	Approved
-SECJ3523	Approved
-Tan Xin Tian	A24CS0198	20	12	2	Computer Science (Data Engineering)	2
-SECJ2013	Approved
-SCSJ2313	Approved
-Angela Ngu	A24CS0226	18	18	2	Data Engineering	5
-SCSJ2313	Pending
-SECP3723	Approved
-SECR4706	Approved
+SCSJ4663	Approved
 SECV4913	Approved
+Nadia binti Rahman	A23CS0123	20	15	3	Computer Science (Graphics and Multimedia)	3
+SECJ3523	Approved
+SECJ3613	Approved
+SCSJ3613	Approved
+Chen Wei Lun	A23CS1234	20	15	3	Computer Science (Data Engineering)	3
+SECJ3523	Approved
+SECJ3613	Approved
+SCSJ3613	Approved
+Nurul Aina binti Hassan	A23CS1456	20	15	3	Computer Science (Data Engineering)	3
+SECJ3523	Approved
+SECJ3613	Approved
+SCSJ3613	Approved
+Hassan bin Ibrahim	A23CS5678	20	15	3	Computer Science (Network and Security)	3
+SECJ3523	Approved
+SECJ3613	Approved
+SECJ3033	Approved
+Khairul Anuar bin Mohamed	A23CS6789	20	15	3	Software Engineering	3
+SECJ3523	Approved
+SCSJ3613	Approved
+SECJ3033	Approved
+Tan Xin Tian	A24CS0198	20	12	2	Computer Science (Data Engineering)	2
+SCSJ2313	Approved
 SECJ2013	Approved
-Chun Yao Ting	A24CS0239	20	0	2	Computer Science (Data Engineering)	0
+Angela Ngu	A24CS0226	18	18	2	Data Engineering	5
+SECJ2013	Approved
+SECV4913	Approved
+SECR4706	Approved
+SECP3723	Approved
+SCSJ2313	Pending
+Chun Yao Ting	A24CS0239	20	3	2	Computer Science (Data Engineering)	1
+SECJ2013	Pending
 Ahmad Faiz bin Abdullah	A24CS1234	20	12	2	Software Engineering	2
-SECJ2013	Approved
 SCSJ2313	Approved
+SECJ2013	Approved
 Aisyah binti Hashim	A24CS2345	20	9	2	Software Engineering	2
-SECJ2153	Approved
 SECJ2013	Approved
+SECJ2153	Approved
 Muhammad Amin bin Sulaiman	A24CS3456	20	9	2	Computer Science (Graphics and Multimedia)	2
-SCSJ2313	Approved
 SECJ2013	Approved
+SCSJ2313	Approved
 Priya Devi	A24CS4567	20	12	2	Software Engineering	2
-SECJ2153	Approved
 SECJ2013	Approved
+SECJ2153	Approved
 Amirah binti Yusof	A24CS8901	20	9	2	Computer Science (Network and Security)	2
+SECJ2013	Approved
 SECJ2153	Approved
-SECJ2013	Approved
 Rajesh Kumar	A24CS9012	20	12	2	Software Engineering	2
-SECJ2013	Approved
 SCSJ2313	Approved
+SECJ2013	Approved
 Fatimah binti Ahmad	A25CS0123	20	6	1	Software Engineering	1
 SECJ1013	Approved
 Lim Wei Jie	A25CS2789	20	9	1	Computer Science (Network and Security)	2
-SECJ1023	Approved
 SECJ1013	Approved
+SECJ1023	Approved
 Muhammad Hafiz bin Ismail	A25CS4567	20	6	1	Computer Science (Graphics and Multimedia)	1
 SECJ1013	Approved

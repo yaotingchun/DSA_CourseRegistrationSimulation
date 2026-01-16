@@ -1,74 +1,75 @@
-SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	3	4
-A24CS1234	Ahmad Faiz bin Abdullah
-A24CS9012	Rajesh Kumar
-A24CS3456	Muhammad Amin bin Sulaiman
+SCSJ2313	Discrete Mathematics	Dr. Aziz bin Deraman	3	45	4	5
 A24CS0198	Tan Xin Tian
+A24CS0226	Angela Ngu
+A24CS1234	Ahmad Faiz bin Abdullah
+A24CS3456	Muhammad Amin bin Sulaiman
+A24CS9012	Rajesh Kumar
 SCSJ3613	Artificial Intelligence	Prof. Dr. Mohd Shahizan bin Othman	3	35	4	4
+A23CS0123	Nadia binti Rahman
+A23CS1234	Chen Wei Lun
 A23CS1456	Nurul Aina binti Hassan
 A23CS6789	Khairul Anuar bin Mohamed
-A23CS1234	Chen Wei Lun
-A23CS0123	Nadia binti Rahman
-SCSJ4663	Machine Learning	Dr. Nur Azmina binti Ismail	3	30	2	2
+SCSJ4663	Machine Learning	Dr. Nur Azmina binti Ismail	3	30	1	1
 A22CS7890	Wong Siew Chin
 SECI2206	Computer System and Organization	Dr. Abdullah bin Mohd Zin	3	40	2	2
 A22CS0678	Tan Mei Ling
 A24CS0239	Chun Yao Ting
 SECI4934	IT Project Management	Assoc. Prof. Dr. Noor Azah binti Samsudin	4	30	4	4
-A22CS3456	Siti Nurhaliza binti Zainal
-A22CS2345	Nurul Hidayah binti Razak
-A22CS6789	Lee Xin Yi
 A22CS1234	Liew Chee Keong
+A22CS2345	Nurul Hidayah binti Razak
+A22CS3456	Siti Nurhaliza binti Zainal
+A22CS6789	Lee Xin Yi
 SECJ1013	Programming Technique I	Dr. Azman bin Ahmad	3	40	3	3
+A25CS0123	Fatimah binti Ahmad
 A25CS2789	Lim Wei Jie
 A25CS4567	Muhammad Hafiz bin Ismail
-A25CS0123	Fatimah binti Ahmad
 SECJ1023	Digital Logic	Assoc. Prof. Dr. Siti Hajar binti Yusoff	3	40	1	1
 A25CS2789	Lim Wei Jie
 SECJ2013	Data Structures and Algorithms	Prof. Dr. Ahmad Fauzi bin Mohamed	3	45	8	8
-A24CS1234	Ahmad Faiz bin Abdullah
 A22CS0678	Tan Mei Ling
-A24CS8901	Amirah binti Yusof
-A24CS9012	Rajesh Kumar
+A24CS0198	Tan Xin Tian
+A24CS1234	Ahmad Faiz bin Abdullah
+A24CS2345	Aisyah binti Hashim
 A24CS3456	Muhammad Amin bin Sulaiman
 A24CS4567	Priya Devi
-A24CS0198	Tan Xin Tian
-A24CS2345	Aisyah binti Hashim
-SECJ2153	Object-Oriented Programming	Dr. Noraziah binti Ali	3	45	3	3
 A24CS8901	Amirah binti Yusof
-A24CS4567	Priya Devi
+A24CS9012	Rajesh Kumar
+SECJ2153	Object-Oriented Programming	Dr. Noraziah binti Ali	3	45	3	3
 A24CS2345	Aisyah binti Hashim
+A24CS4567	Priya Devi
+A24CS8901	Amirah binti Yusof
 SECJ3033	Database Systems	Dr. Mohd Nizam bin Osman	3	40	2	2
-A23CS6789	Khairul Anuar bin Mohamed
 A23CS5678	Hassan bin Ibrahim
+A23CS6789	Khairul Anuar bin Mohamed
 SECJ3523	Software Requirements Engineering	Assoc. Prof. Dr. Rodziah binti Atan	3	35	5	5
+A23CS0123	Nadia binti Rahman
+A23CS1234	Chen Wei Lun
 A23CS1456	Nurul Aina binti Hassan
+A23CS5678	Hassan bin Ibrahim
 A23CS6789	Khairul Anuar bin Mohamed
-A23CS1234	Chen Wei Lun
-A23CS5678	Hassan bin Ibrahim
-A23CS0123	Nadia binti Rahman
 SECJ3613	Software Design and Architecture	Dr. Haryani binti Haron	3	35	4	4
-A23CS1456	Nurul Aina binti Hassan
-A23CS1234	Chen Wei Lun
-A23CS5678	Hassan bin Ibrahim
 A23CS0123	Nadia binti Rahman
+A23CS1234	Chen Wei Lun
+A23CS1456	Nurul Aina binti Hassan
+A23CS5678	Hassan bin Ibrahim
 SECJ4933	Software Project Management	Prof. Madya Dr. Zarinah binti Mohd Kasirun	3	30	5	5
-A22CS3456	Siti Nurhaliza binti Zainal
-A22CS7890	Wong Siew Chin
-A22CS2345	Nurul Hidayah binti Razak
-A22CS6789	Lee Xin Yi
 A22CS1234	Liew Chee Keong
+A22CS2345	Nurul Hidayah binti Razak
+A22CS3456	Siti Nurhaliza binti Zainal
+A22CS6789	Lee Xin Yi
+A22CS7890	Wong Siew Chin
 SECP3223	Data Analytics Programming	Assoc. Prof. Ts. Dr. Erne Nazira binti Bazin	3	30	1	1
 A24CS0239	Chun Yao Ting
 SECP3723	System Development and Technology	Dr. Najmi	3	30	0	0
 SECR4706	Software Engineering Project II	Dr. Safiah binti Sidek	6	30	5	5
-A22CS3456	Siti Nurhaliza binti Zainal
-A22CS7890	Wong Siew Chin
-A22CS2345	Nurul Hidayah binti Razak
-A22CS6789	Lee Xin Yi
 A22CS1234	Liew Chee Keong
+A22CS2345	Nurul Hidayah binti Razak
+A22CS3456	Siti Nurhaliza binti Zainal
+A22CS6789	Lee Xin Yi
+A22CS7890	Wong Siew Chin
 SECV4913	Software Verification and Validation	Dr. Salama binti Sulaiman	3	30	5	5
-A22CS3456	Siti Nurhaliza binti Zainal
-A22CS7890	Wong Siew Chin
-A22CS2345	Nurul Hidayah binti Razak
-A22CS6789	Lee Xin Yi
 A22CS1234	Liew Chee Keong
+A22CS2345	Nurul Hidayah binti Razak
+A22CS3456	Siti Nurhaliza binti Zainal
+A22CS6789	Lee Xin Yi
+A22CS7890	Wong Siew Chin

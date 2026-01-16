@@ -1754,7 +1754,7 @@ string getCurrentTimestamp(time_t t) {
 
 void easterEgg() {
     int num=0;
-    if (rand() % 100000 == 0) {
+    if (rand() % 1000 == 0) {
         cout << "500 Internal Server Error\n";
         exit(0);
     }
