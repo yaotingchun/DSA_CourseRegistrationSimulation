@@ -1,4 +1,4 @@
-Tan Mei Ling	A205678	20	12	2	Information Technology	2
+Tan Mei Ling	A22CS0678	20	12	4	Information Technology	2
 SECI2206	Approved
 SECJ2013	Approved
 Liew Chee Keong	A22CS1234	20	18	4	Computer Science (Network and Security)	4
